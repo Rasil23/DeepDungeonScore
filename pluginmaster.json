@@ -2,14 +2,20 @@
   {
     "Author": "Rasil23",
     "Name": "DeepDungeonScore",
+    "Punchline": "Deep Dungeon scoring and trap tracking for PotD and HoH",
+    "Description": "Deep Dungeon scoring and trap tracking plugin for Palace of the Dead and Heaven-on-High. Track your progress, avoid traps, and compete for high scores!",
     "InternalName": "DeepDungeonScore",
     "AssemblyVersion": "1.0.0.0",
-    "Description": "Deep Dungeon scoring and trap tracking plugin for Palace of the Dead and Heaven-on-High.",
     "RepoUrl": "https://github.com/Rasil23/DeepDungeonScore",
-    "Tags": ["DeepDungeon", "PotD", "HoH"],
+    "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLink": "https://github.com/Rasil23/DeepDungeonScore/releases/download/1.0.0/DeepDungeonScore.zip"
+    "DownloadLinkInstall": "https://github.com/Rasil23/DeepDungeonScore/releases/download/1.0.0/DeepDungeonScore.zip",
+    "DownloadLinkUpdate": "https://github.com/Rasil23/DeepDungeonScore/releases/download/1.0.0/DeepDungeonScore.zip",
+    "DownloadLinkTesting": "https://github.com/Rasil23/DeepDungeonScore/releases/download/1.0.0/DeepDungeonScore.zip",
+    "DownloadCount": 0,
+    "LastUpdate": "1737417600",
+    "Tags": ["DeepDungeon", "PotD", "HoH"]
   }
 ]
