@@ -7,7 +7,7 @@
     "Description": "Deep Dungeon scoring and trap tracking plugin for Palace of the Dead and Heaven-on-High.",
     "RepoUrl": "https://github.com/Rasil23/DeepDungeonScore",
     "Tags": ["DeepDungeon", "PotD", "HoH"],
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 14,
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLink": "https://github.com/Rasil23/DeepDungeonScore/releases/download/1.0.0/DeepDungeonScore.zip"
